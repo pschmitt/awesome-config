@@ -4,3 +4,6 @@
 [submodule "shifty"]
 	path = shifty
 	url = http://bioe007@github.com/bioe007/awesome-shifty.git
+[submodule "blingbling"]
+	path = blingbling
+	url = git://github.com/cedlemo/blingbling.git
