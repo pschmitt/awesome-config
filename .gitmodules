@@ -1,0 +1,6 @@
+[submodule "awesompd"]
+	path = awesompd
+	url = https://github.com/alexander-yakushev/awesompd.git
+[submodule "shifty"]
+	path = shifty
+	url = http://bioe007@github.com/bioe007/awesome-shifty.git
